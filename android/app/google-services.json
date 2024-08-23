@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407681848602",
+    "project_id": "centillionelitequiz",
+    "storage_bucket": "centillionelitequiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407681848602:android:cfd339131487c955c148a3",
+        "android_client_info": {
+          "package_name": "com.example.elite_quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH1CakRgbwQCn7oJMVHrpcm2alnDOtIps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
